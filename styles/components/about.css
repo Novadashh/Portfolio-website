@@ -1,7 +1,10 @@
 .about{
     display: flex;
     flex-direction: column;
-    gap: 1rem;
+    /* gap: 1rem; */
+    /* border: 1px solid greenyellow; */
+    /* background-image: url(abouts.png); */
+    /* background-size: cover; */
 }
 .about__content {
     display: flex;
@@ -76,7 +79,7 @@
     }
     
     .about__description{
-         
+        
         font-size:var(--size-base) ;
          
     }

@@ -41,7 +41,7 @@
   } 
 
   html{
-    scroll-behavior: smooth;
+    scroll-snap-type: proximity;
   }
 
   .light-mode{
