@@ -1,0 +1,19 @@
+h1 {
+    text-align: center;
+    color:brown;
+    scroll-behavior: smooth;
+
+
+}
+
+body {
+    color: grey;
+}
+
+strong {
+    color: #e11d48;
+}
+
+a {
+    color: #4f46e5;
+}
