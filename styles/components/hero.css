@@ -1,6 +1,15 @@
 .hero {
     text-align: center;
     display: flex;
+    background-image: url("aboutbg.jpg");
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    opacity: 0.5;
+    /* z-index: 0;  
+    position: relative;   */
+    padding-top: 20px;
+    padding-bottom: 20px;
+
     flex-direction: column;
     justify-content: center;
     align-items: center;
