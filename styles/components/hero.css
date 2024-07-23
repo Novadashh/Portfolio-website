@@ -1,14 +1,13 @@
 .hero {
     text-align: center;
     display: flex;
-    /* background-image: url("aboutbg.jpg"); */
-    /* background-repeat: no-repeat; */
-    /* background-size: 100% 100%; */
-    /* opacity: 0.5; */
-    /* z-index: 0;  
-    position: relative;   */
+    /* background-image: url("aboutbg.jpg");
+
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
     padding-top: 20px;
     padding-bottom: 20px;
+     background-color:rgba(79,70,229, 0.5); */
 
     flex-direction: column;
     justify-content: center;

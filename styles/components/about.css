@@ -17,7 +17,7 @@
 .about__description{
     max-width: 60ch;
     font-size:var(--size-sm) ;
-    color: var(--clr-slate600);
+    color: var(--clr-slate400);
 }
 
 .about__hr{
