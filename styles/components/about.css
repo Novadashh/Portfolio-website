@@ -26,7 +26,7 @@
 
 .about__subtitle{
     font-size: var(--size-sm);
-    color: var(--clr-slate800);
+    color: var(--clr-light);
 }
 
 .about__ul-container{
