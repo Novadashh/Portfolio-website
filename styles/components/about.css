@@ -79,16 +79,12 @@
     }
     
     .about__description{
-        
         font-size:var(--size-base) ;
          
     }
-    
-    
     .about__subtitle{
         font-size: var(--size-base);
     }
-    
     .about__list{
         font-size: var(--size-base);
     
@@ -101,7 +97,6 @@
     .about__img-wrapper{
         margin: 0 auto;
     }
-
     .about__img{
         width: 28.6857rem;
     
@@ -119,25 +114,18 @@
         justify-content: space-between;
         align-items: center;
     }
-
     .about__title{
         font-size: var(--size-4xl);
         color: var(--clr-light);
     }
-    
-    .about__description{
-         
-        font-size:var(--size-lg) ;
-         
+    .about__description{  
+        font-size:var(--size-lg) ; 
     }
-    
     .about__subtitle{
         font-size: var(--size-lg);
     }
-    
     .about__list{
         font-size: var(--size-lg);
-    
     }
 }
 
@@ -151,20 +139,15 @@
         font-size: var(--size-5xl);
         color: var(--clr-light);
     }
-    
     .about__description{
-         
         font-size:var(--size-xl);
     }
-    
-    
     .about__subtitle{
         font-size: var(--size-xl);
     }
     
     .about__list{
         font-size: var(--size-xl);
-    
     }
 
     .about__img{
